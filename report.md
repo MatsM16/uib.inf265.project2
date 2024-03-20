@@ -12,6 +12,7 @@ Students:
 - [Variants](#variants)
 
 ## Design
+We tried preprocessing the data with erosion and dilation to get rid of some of the noise, but the results werent great so we decided against using it for the final project. We also noticed some of the labels didnt match up with what we assumed to humbers to be and some of the boxes werent on top of where we would place the number so that could be a source of error when it comes to accuracy, however we didnt find a good fix against this so for now it will just be left as is.
 
 ## Models
 
