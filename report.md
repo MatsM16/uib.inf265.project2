@@ -26,6 +26,8 @@ We trained up four models(v0 adam was just to test things and not really used la
 
 After ten epochs the scores for the model on training, validation and test data are:
  ![scores](/uib.inf265.project2/assets/score_v2_adam_lr0.001.png)
+
+ From the picture we can see that v2 scores around 85 which is quite good if i do say so myself. Compared to the other that score siginficantly lower (65 and 30) this was the clear choice of model
 ### CnnV1
 
 ## Variants
